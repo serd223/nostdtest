@@ -19,7 +19,6 @@ Currently, the C version only supports Windows.
   - `clang`
   - Windows SDK
 ### Instructions
-The `c_run.ps1` script contains certain hardcoded paths to necessary files, change the paths according to your configuration.
 ```console
   $ ./c_run.ps1 hello!
   6
